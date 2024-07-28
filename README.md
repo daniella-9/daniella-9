@@ -6,8 +6,8 @@ I'm a passionate Computer Science student with a knack for web development and a
 - 🌱 Currently Learning: React and laravel and also deepening my knowledge in full-stack web development.
 - 👨‍💻 Skills: HTML5, CSS3, JavaScript, Bootstrap, Vue.js, PHP, and MySQL.
 - 🌍 Languages: Native Indonesian and have intermediate proficiency in English (B1).
-- 💬 Ask me about anything.
 - 😄 Pronouns: She/Her
+- 💬 Ask me about anything.
 
 When I'm not coding, you can find me exploring the latest tech trends, learning through tech blogs and tutorials, and watching some good movies. I'm always open to collaboration and eager to connect with fellow developers. Let's build something amazing together!
 <div>
