@@ -3,7 +3,7 @@
 
 I'm a passionate Computer Science student with a knack for web development and a love for learning new technologies. My journey in coding started with small projects, and now I'm excited to contribute to larger, impactful ones. Here's a bit about me:
 
-- 🌱 Currently Learning: React and laravel and also deepening my knowledge in full-stack web development.
+- 🌱 Currently Learning: Vue and laravel and also deepening my knowledge in full-stack web development.
 - 🌍 Languages: Native Indonesian and have intermediate proficiency in English (B1).
 - 😄 Pronouns: She/Her
 - 💬 Ask me about anything.
